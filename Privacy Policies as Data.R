@@ -20,10 +20,10 @@ summary(corpus_privacy, 3)
 
 #Corpus consisting of 3 documents, showing 3 documents:
 
-  #Text Types Tokens Sentences  company Year
- #text1  1264   5861       230     meta 2022
- #text2  1268   5603       190   google 2022
- #text3  1022   4453       171 whatsapp 2021
+  Text Types Tokens Sentences  company Year
+ text1  1264   5861       230     meta 2022
+ text2  1268   5603       190   google 2022
+ text3  1022   4453       171 whatsapp 2021
 
 #5) Data Preparation to remove unnecessary items.
 
