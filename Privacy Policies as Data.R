@@ -47,8 +47,7 @@ privacy_dtm_nostop %>%
 textstat_frequency() %>% 
 head(30)
                      
-     
-                     
+                          
 #7) I will use the cosine method to verify the degree of similarities between the policies:
 cos_privacy_dtm <- textstat_simil(privacy_dtm, method="cosine")
 
