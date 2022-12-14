@@ -9,3 +9,6 @@ The companies' privacy policies are included in the files. For the data used in 
 
 For Microsoft Power BI users:
 1)	The file “Word Cloud.pbix” allows the creation of word cloud visualizations in Power BI. The file is also available at https://appsource.microsoft.com/
+
+
+![Cloud image](https://user-images.githubusercontent.com/120563024/207577798-04151d3b-11ac-4cfe-bcb1-18a7f6381049.JPG)
