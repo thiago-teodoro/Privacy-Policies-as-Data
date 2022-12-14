@@ -110,7 +110,8 @@ names(privacy_tfidf) <- colnames(privacy_dtm)
 sort(privacy_tfidf,dec=T)[1:10]
 
 
-#13) To compare the similarities between a pair of privacy policies using cosine, I will compare the privacy policy from Google and Snap Inc (Snapchat). The file below (SG.xlsx) lists the two policies.
+#13) To compare the similarities between a pair of privacy policies using cosine, I will compare the privacy policy from Google and Snap Inc (Snapchat). 
+#The file below (SG.xlsx) lists the two policies.
 
 library(readxl)
 SG <- read_excel("SG.xlsx")
