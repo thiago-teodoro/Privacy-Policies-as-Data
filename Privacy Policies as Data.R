@@ -37,7 +37,7 @@ privacy_dtm <- quanteda::dfm(privacy_tokens, tolower=TRUE)
                      
                      
 #6) We can remove stopwords (e.g. "the") and identify those words with the highest frequency:
-  # I am listing 30 words for a cloud visualization.
+  # I am listing 30 words for a cloud visualization. You may use the cloud word from Microsoft Power BI for better visualization.
                      
 privacy_tokens_nostop <- privacy_tokens %>%
 tokens_tolower() %>%
@@ -64,12 +64,12 @@ kwic(privacy_tokens,"consent", window=4) %>%
 
 #10)  We can use the "KWIC" also to compare in which context a given "word" receives in two different policies.
 # I will compare the use of the term "data" in the Privacy Act of 1974, as amended, 5 U.S.C. § 552a, with the privacy policies under analysis.
-# For the policies under analysis, we have the following:
+# First, I will list the results of the privacy policies. For the policies under analysis, we have the following:
 
 kwic(privacy_tokens,"data", window=4) %>% 
   head(15)
 
-#11) To obtain the results under the Privacy Act of 1974, as amended, 5 U.S.C. § 552a, we will need to perform the following:
+#11) Now, we can obtain the results under the Privacy Act of 1974, as amended, 5 U.S.C. § 552a, we will need to perform the following:
 library(readxl)
 P1 <- read_excel("P1.xlsx")
 View(P1)
@@ -110,7 +110,7 @@ names(privacy_tfidf) <- colnames(privacy_dtm)
 sort(privacy_tfidf,dec=T)[1:10]
 
 
-#13) To compare the similarities of two privacy policies using cosine (Degree of similarity between Snap (Snapchat) and Google)
+#13) To compare the similarities between a pair of privacy policies using cosine, I will compare the privacy policy from Google and Snap Inc (Snapchat). The file below (SG.xlsx) lists the two policies.
 
 library(readxl)
 SG <- read_excel("SG.xlsx")
