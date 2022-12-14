@@ -1,5 +1,5 @@
-#TEST 1
-#Assessing similarities and most frequently words:
+#Privacy Policies as Data
+#Assessing word frequency, context and similarities.
 
 #1) Importing Privacy.xlsx (Import Dataset)
 
@@ -64,13 +64,13 @@ kwic(privacy_tokens,"consent", window=4) %>%
   head(15)
 
 #10)  We can use the "KWIC" also to compare in which context a given "word" receives in two different policies.
-# I will compare the use of the term "data" in the Privacy Act of 1974, as amended, 5 U.S.C. ง 552a, with the privacy policies under analysis.
+# I will compare the use of the term "data" in the Privacy Act of 1974, as amended, 5 U.S.C. ยง 552a, with the privacy policies under analysis.
 # For the policies under analysis, we have the following:
 
 kwic(privacy_tokens,"data", window=4) %>% 
   head(15)
 
-#11) To obtain the results under the Privacy Act of 1974, as amended, 5 U.S.C. ง 552a, we will need to perform the following:
+#11) To obtain the results under the Privacy Act of 1974, as amended, 5 U.S.C. ยง 552a, we will need to perform the following:
 library(readxl)
 P1 <- read_excel("P1.xlsx")
 View(P1)
