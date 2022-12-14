@@ -1,0 +1,255 @@
+PrivacyandSafetyHubPrivacySafetyTransparencyNewsPrivacyPrivacy CenterPrivacy PrinciplesPrivacy by ProductPrivacy PolicyHow We Use YourInformationPrivacy Policy
+
+Effective: June 29,2022
+
+Snap Inc. is a cameracompany. Our productsand services — includingSnapchat, Bitmoji,Spectacles, advertising,commerce, and othersthat link to this PrivacyPolicy — provide fastand fun ways to expressyourself, live in themoment, learn about theworld, and have funtogether!
+When you use theseservices, you’ll sharesome information withus. So we want to beupfront about theinformation we collect,how we use it, whom weshare it with, and thecontrols we give you toaccess, update, anddelete your information.
+That’s why we’ve writtenthis Privacy Policy. Andit’s why we’ve tried towrite it in a way that’seasy to understand forall our users andblissfully free of thelegalese that oftenclouds thesedocuments. Of course, ifyou still have questionsabout anything in ourPrivacy Policy, justcontact us.
+You should read ourentire Privacy Policy, butwhen you only have afew minutes or want toremember somethinglater on, you can alwaystake a look at thisoverview and video. Wealso encourage you tocheck out the rest of ourPrivacy Center. Wedesigned it to give youeasy-to-digestsummaries of ourprivacy practices. Forexample, our Privacy byProduct page provides abreakdown of specificprivacy features for ourproducts.
+
+InformationWe Collect
+
+There are three basiccategories ofinformation we collect:
+Information youprovide.
+
+Information we getwhen you use ourservices.
+
+Information we getfrom third parties.
+
+
+Here’s a little more detailon each of thesecategories.
+Information YouProvide
+When you interact withour services, we collectinformation that youprovide to us. Forexample, many of ourservices require you toset up an account, so wemay need to collect afew important detailsabout you, such as yourname, username,password, emailaddress, phone number,and date of birth. Wemay also ask you toprovide us with someadditional informationthat will be publiclyvisible on our services,such as a profile pictureor Bitmoji avatar. Someservices, such ascommerce products,may require you toprovide us with a debitor credit card numberand its associatedaccount information.
+Of course, you’ll alsoprovide us whateverinformation you sendthrough our services,such as Snaps andChats. Keep in mind thatthe users who view yourSnaps, Chats, and anyother content canalways save that contentor copy it outside theapp. So, the samecommon sense thatapplies to the internet atlarge applies to ourservices as well: Don’tsend messages or sharecontent that youwouldn’t want someoneto save or share.
+When you contactcustomer support orcommunicate with us inany other way, we’llcollect whateverinformation youvolunteer or that weneed to resolve yourquestion.
+Information We GetWhen You Use OurServices
+When you use ourservices, we collectinformation about whichof those services you’veused and how you’veused them. We mightknow, for instance, thatyou watched a particularStory, saw a specific adfor a certain period oftime, and sent a fewSnaps. Here’s a fullerexplanation of the typesof information we collectwhen you use ourservices:
+Usage Information.We collectinformation aboutyour activity throughour services. Forexample, we maycollect informationabout:
+how you interactwith our services,such as whichFilters or Lensesyou view or applyto Snaps, whichStories you watchon Discover,whether you’reusing Spectacles,or which searchqueries yousubmit.
+
+how youcommunicatewith otherSnapchatters,such as theirnames, the timeand date of yourcommunications,the number ofmessages youexchange withyour friends,which friends youexchangemessages withthe most, andyour interactionswith messages(such as whenyou open amessage orcapture ascreenshot).
+
+
+
+
+ContentInformation. Wecollect content youcreate on ourservices, such ascustom stickers, andinformation aboutthe content youcreate or provide,such as if therecipient has viewedthe content and themetadata that isprovided with thecontent.
+
+
+Device Information.We collectinformation from andabout the devicesyou use. Forexample, we collect:
+
+
+information aboutyour hardware andsoftware, such as thehardware model,operating systemversion, devicememory, advertisingidentifiers, uniqueapplicationidentifiers, appsinstalled, uniquedevice identifiers,device usage data,browser type,keyboards installed,language, batterylevel, and time zone;
+
+information fromdevice sensors, suchas accelerometers,gyroscopes,compasses,microphones, andwhether you haveheadphonesconnected; and
+
+information aboutyour wireless andmobile networkconnections, such asmobile phonenumber, serviceprovider, IP address,and signal strength.
+
+
+Device Phonebook.Because our servicesare all aboutcommunicating withfriends, we may —with your permission— collect informationfrom your device’sphonebook.
+
+
+Camera, Photos,and Audio. Many ofour services requireus to collect imagesand otherinformation fromyour device’s cameraand photos. Forexample, you won’tbe able to sendSnaps or uploadphotos from yourcamera roll unless wecan access yourcamera or photos.
+
+
+LocationInformation. Whenyou use our serviceswe may collectinformation aboutyour location. Withyour permission, wemay also collectinformation aboutyour precise locationusing methods thatinclude GPS, wirelessnetworks, celltowers, Wi-Fi accesspoints, and othersensors, such asgyroscopes,accelerometers, andcompasses.
+
+
+InformationCollected byCookies and OtherTechnologies. Likemost online servicesand mobileapplications, we mayuse cookies andother technologies,such as webbeacons, webstorage, and uniqueadvertisingidentifiers, to collectinformation aboutyour activity,browser, and device.We may also usethese technologiesto collect informationwhen you interactwith services weoffer through one ofour partners, such asadvertising andcommerce features.For example, we mayuse informationcollected on otherwebsites to show youmore relevant ads.Most web browsersare set to acceptcookies by default. Ifyou prefer, you canusually remove orreject browsercookies through thesettings on yourbrowser or device.Keep in mind,though, thatremoving or rejectingcookies could affectthe availability andfunctionality of ourservices. To learnmore about how weand our partners usecookies on ourservices and yourchoices, pleasecheck out our CookiePolicy.
+
+
+Log Information. Wealso collect loginformation whenyou use our website,such as:
+
+
+details about howyou’ve used ourservices;
+
+device information,such as your webbrowser type andlanguage;
+
+access times;
+
+pages viewed;
+
+IP address;
+
+identifiers associatedwith cookies or othertechnologies thatmay uniquely identifyyour device orbrowser; and
+
+pages you visitedbefore or afternavigating to ourwebsite.
+
+
+Information WeCollect from ThirdParties
+We may collectinformation about youfrom other users, ouraffiliates, and thirdparties. Here are a fewexamples:
+If you link yourSnapchat account toanother service (likeBitmoji or a third-party app), we mayreceive informationfrom the otherservice, like how youuse that service.
+
+Advertisers, appdevelopers,publishers, and otherthird parties mayshare informationwith us as well. Wemay use thisinformation, amongother ways, to helptarget or measurethe performance ofads. You can learnmore about our useof this kind of third-party data in ourSupport Center.
+
+If another useruploads their contactlist, we may combineinformation from thatuser’s contact listwith otherinformation we havecollected about you.
+
+
+
+How We UseInformation
+
+What do we do with theinformation we collect?For the detailed answer,go here. The shortanswer is: Provide youwith an amazing set ofproducts and servicesthat we relentlesslyimprove. Here are theways we do that:
+develop, operate,improve, deliver,maintain, and protectour products andservices.
+
+send youcommunications,including by email orSMS wherepermitted. Forexample, we may useemail or SMS torespond to supportinquiries or to shareinformation aboutour products,services, andpromotional offersthat we think mayinterest you.
+
+monitor and analyzetrends and usage.
+
+personalize ourservices by, amongother things,suggesting friends,profile information,or Bitmoji stickers,helping Snapchattersfind each other inSnapchat, affiliateand third-party appsand services, orcustomising thecontent we showyou, including ads.
+
+add context to yourSnapchatexperience, forexample by taggingyour Memories withsearchable labelsbased on yourlocation (of course, ifyou’ve given uspermission to collectyour location) andthe content of yourphoto or video (e.g.,if there’s a dog inyour photo, it may besearchable inMemories by theterm “dog”).
+
+provide and improveour advertisingservices, adtargeting, and admeasurement,including throughthe use of yourprecise locationinformation (again, ifyou’ve given uspermission to collectthat information),both on and off ourservices. We mayalso storeinformation aboutyour use of third-party apps andwebsites on yourdevice to do this.Learn more. See theControl Over YourInformation sectionbelow for moreinformation aboutSnap Inc.’sadvertising practicesand your choices.
+
+enhance the safetyand security of ourproducts andservices.
+
+verify your identityand prevent fraud orother unauthorisedor illegal activity.
+
+use informationwe’ve collected fromcookies and othertechnology toenhance our servicesand your experiencewith them.
+
+enforce, investigate,and report conductviolating our Termsof Service and otherusage policies,respond to requestsfrom lawenforcement, andcomply with legalrequirements.
+
+
+We may also useinformation from Apple’sTrueDepth camera toimprove the quality ofLenses. Information fromthe TrueDepth camera isused in real time — wedon’t store thisinformation on ourservers or share it withthird parties.
+
+How WeShareInformation
+
+We may shareinformation about you inthe following ways:
+With otherSnapchatters. Wemay share thefollowing informationwith otherSnapchatters:
+
+
+information aboutyou, such as yourusername, name, andBitmoji.
+
+information abouthow you haveinteracted with ourservices, such asyour Snapchat“score,” the names ofSnapchatters you arefriends with, howclose you are withyour friends onSnapchat, yourrecent locationhistory (if you chooseto share yourlocation on SnapMap), and otherinformation that willhelp Snapchattersunderstand yourconnections withothers using ourservices. Forexample, because itmay not be clearwhether a new friendrequest comes fromsomeone youactually know, wemay share whetheryou and therequestor haveSnapchat friends incommon.
+
+information aboutyour device, such asthe operating systemand device type, tohelp you receiveChats, Snaps, andother content in theoptimal viewingformat.
+
+any additionalinformation you havedirected us to share.For example, Snapwill share yourinformation whenyou connect yourSnapchat account toa third-party app, andif you shareinformation orcontent fromSnapchat to thethird-party app.
+
+content you post orsend. How widelyyour content isshared depends onyour personalsettings and the typeof service you areusing. For example, aSnap may be sent tojust a single friendyou select, but yourMy Story contentmay be seen by anySnapchatter whomyou allow to see yourMy Story.
+
+
+With allSnapchatters, ourbusiness partners,and the generalpublic. We may sharethe followinginformation with allSnapchatters as wellas with our businesspartners and thegeneral public:
+
+
+public informationlike your name,username, profilepictures, Snapcode,and Public Profile.
+
+Public Content likeyour Highlights,Custom Stickers,Lenses, Storysubmissions that areset to be viewable byEveryone, and anycontent that yousubmit to aninherently publicservice, likeSpotlight, Snap Map,and other crowd-sourced services.This content may beviewed, used, andshared by the publicat large both on andoff our services,including throughsearch results, onwebsites, in apps,and in online andoffline broadcasts.
+
+
+With our affiliates.We may shareinformation withentities within theSnap Inc. family ofcompanies.
+
+
+With third parties.We may shareinformation withthird parties in thefollowing ways:
+
+
+We may shareinformation aboutyou with serviceproviders whoperform services onour behalf, includingto facilitate paymentsand measure andoptimize theperformance of adsand deliver morerelevant ads,including on third-party websites andapps.
+
+We may shareinformation aboutyou with businesspartners that provideservices andfunctionality on ourservices. For moreinformation aboutinformation collectedby third parties onour services, visit ourSupport Site.
+
+We may shareinformation aboutyou, such as deviceand usageinformation, to helpus and othersprevent fraud.
+
+We may shareinformation aboutyou for legal, safety,and security reasons.We may shareinformation aboutyou if we reasonablybelieve thatdisclosing theinformation isneeded to:
+
+comply with anyvalid legal process,governmentalrequest, orapplicable law, rule,or regulation.
+
+investigate, remedy,or enforce potentialTerms of Service andCommunityGuidelines violations.
+
+protect the rights,property, or safety ofus, our users, orothers.
+
+detect and resolveany fraud or securityconcerns.
+
+We may shareinformation aboutyou as part of amerger oracquisition. If SnapInc. gets involved ina merger, asset sale,financing, liquidationor bankruptcy, oracquisition of all orsome portion of ourbusiness to anothercompany, we mayshare yourinformation with thatcompany before andafter the transactioncloses.
+
+
+Non-personalinformation. We mayalso share with thirdparties that provideservices to us orperform businesspurposes for usaggregated, non-personallyidentifiable, or de-identifiedinformation.
+
+
+
+Third-PartyContent andIntegrations
+
+Our services maycontain third-partycontent andintegrations. Examplesinclude third-partyintegrations in theCamera, third-partygames in Chat, andthird-party Snap Kitintegrations. Throughthese integrations, youmay be providinginformation to the thirdparty as well as to Snap.We are not responsiblefor how those thirdparties collect or useyour information. Asalways, we encourageyou to review the privacypolicies of every third-party service that youvisit or use, includingthose third parties youinteract with through ourservices. You can learnmore about third-partyservices in Snapchathere.
+
+How Long WeKeep YourInformation
+
+Snapchat lets youcapture what it’s like tolive in the moment. Onour end, that meansmost messages — likeSnaps and Chats — sentin Snapchat will beautomatically deleted bydefault from our serversafter we detect they’vebeen opened by allrecipients or haveexpired. Other content,like Story posts, arestored for longer. Fordetailed informationabout how long we storedifferent types ofcontent, check out ourSupport Site.
+We store otherinformation for longerperiods of time. Forexample:
+We store your basicaccount information— like your name,phone number, andemail address — andlist of friends untilyou ask us to deletethem.
+
+We store locationinformation fordifferent lengths oftime based on howprecise it is andwhich services youuse. If locationinformation isassociated with aSnap — like thosesaved to Memories orposted to Snap Mapor Spotlight — we’llretain that locationas long as we storethe Snap. Pro tip: Youcan see the locationdata we retain aboutyou by downloadingyour data.
+
+
+If you ever decide tostop using Snapchat,you can just ask us todelete your account.We’ll also delete most ofthe information we’vecollected about youafter you’ve beeninactive for a while!
+Keep in mind that, whileour systems aredesigned to carry outour deletion practicesautomatically, we cannotpromise that deletionwill occur within aspecific timeframe.There may be legalrequirements to storeyour data and we mayneed to suspend thosedeletion practices if wereceive valid legalprocess asking us topreserve content, if wereceive reports of abuseor other Terms ofService violations, or ifyour account, contentcreated by you, orcontent created withother users is flagged byothers or our systems forabuse or other Terms ofService violations.Finally, we may alsoretain certaininformation in backupfor a limited period oftime or as required bylaw.
+
+Control OverYourInformation
+
+We want you to be incontrol of yourinformation, so weprovide you with thefollowing tools.
+Access, Correction,and Portability. Youcan access and editmost of your basicaccount informationright in our apps. Youcan also useDownload My Datato obtain a copy ofinformation that isn’tavailable in our appsin a portable format,so you can move it orstore it wherever youwant. Because yourprivacy is importantto us, we will ask youto verify your identityor provide additionalinformation beforewe let you access orupdate your personalinformation. We mayalso reject yourrequest to access orupdate your personalinformation for anumber of reasons,including, forexample, if therequest risks theprivacy of otherusers or is unlawful.
+
+
+Revokingpermissions. In mostcases, if you let ususe your information,you can simplyrevoke yourpermission bychanging thesettings in the app oron your device ifyour device offersthose options. Ofcourse, if you dothat, certain servicesmay lose fullfunctionality. Forpromotional emailsand SMS, you mayopt out by clickingon the unsubscribelink or similarmechanism asprovided.
+
+
+Deletion. While wehope you’ll remain alifelong Snapchatter,if for some reasonyou ever want todelete your account,just go here to learnhow. You can alsodelete someinformation in theapp, like photosyou’ve saved toMemories, Spotlightsubmissions, andsearch history.
+
+
+AdvertisingPreferences. We tryto show you ads thatwe think will berelevant to yourinterests. If youwould like to modifythe information weand our advertisingpartners use to selectthese ads, you cando so in the app andthrough your devicepreferences. Go hereto learn more.
+
+
+Tracking. If you optout of tracking ondevices running iOS14.5 or more recentversions, we will notlink identifiableinformation fromthird-party apps andwebsites withidentifiableinformation fromSnapchat foradvertising purposes,except on yourdevice. You cancontrol use of thison-device data foradvertising by optingout of Activity-BasedAdvertising inSnapchat AdPreferences Settings.Go here to learnmore.
+
+
+Communicatingwith otherSnapchatters. It’simportant to us thatyou stay in controlover whom youcommunicate with.That’s why we’vebuilt a number oftools in Settings thatlet you indicate,among other things,who you want to seeyour Stories, whetheryou’d like to receiveSnaps from just yourfriends or allSnapchatters, andwhether you’d like toblock anotherSnapchatter fromcontacting youagain. Go here tolearn more.
+
+
+
+InternationalDataTransfers
+
+We may collect yourpersonal informationfrom, transfer it to, andstore and process it inthe United States andother countries outsideof where you live.Whenever we shareinformation outside ofwhere you live, when weare legally required to doso, we make sure anadequate transfermechanism is in place.We also make sure anythird parties we shareinformation with have anadequate transfermechanism in place, aswell. You can find moreinformation on thecategories of thirdparties we shareinformation with here.
+
+State andRegionSpecificInformation
+
+You may have specificprivacy rights in yourstate or region. Forexample, in the UnitedStates, residents ofCalifornia and otherstates have specificprivacy rights.Snapchatters in theEuropean EconomicArea (EEA), the UK,Brazil, the Republic ofKorea, and otherjurisdictions also havespecific rights. We keepan up-to-date overviewof state and regionspecific disclosureshere.
+
+Children
+
+Our services are notintended for — and wedon’t direct them to —anyone under 13. Andthat’s why we do notknowingly collectpersonal informationfrom anyone under 13. Inaddition, we may limithow we collect, use, andstore some of theinformation of EEA andUK users between 13 and16. In some cases, thismeans we will be unableto provide certainfunctionality to theseusers. If we need to relyon consent as a legalbasis for processing yourinformation and yourcountry requiresconsent from a parent,we may require yourparent’s consent beforewe collect and use thatinformation.
+
+Revisions tothe PrivacyPolicy
+
+We may change thisPrivacy Policy from timeto time. But when we do,we’ll let you know oneway or another.Sometimes, we’ll let youknow by revising thedate at the top of thePrivacy Policy that’savailable on our websiteand mobile application.Other times, we mayprovide you withadditional notice (suchas adding a statement toour websites’homepages or providingyou with an in-appnotification).
+
+
+Company
+Snap Inc.
+Careers
+News
+Privacy and Safety
+
+Community
+Snapchat Support
+Pixy Support
+Community Guidelines
+
+Advertising
+Buy Ads
+Advertising Policies
+Political Ads Library
+Brand Guidelines
+Promotions Rules
+
+Legal
+Snap Terms
+Law Enforcement
+Cookie Policy
+Cookie Settings
+Report Infringement
+
+Privacy Policy
+Terms of Service
+
+LanguageEnglish (US)
+
+
+
+

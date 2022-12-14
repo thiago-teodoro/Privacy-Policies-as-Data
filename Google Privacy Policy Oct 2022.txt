@@ -1,0 +1,377 @@
+GOOGLE PRIVACY POLICY
+When you use our services, you’re trusting us with yourinformation. We understand that this is a bigresponsibility and we work hard to protect yourinformation and put you in control.
+This Privacy Policy is meant to help you understand what information we collect, why we collect itand how you can update, manage, export and delete your information.
+Privacy Check-Up
+Looking to change your privacy settings?
+Take the Privacy Check-Up
+Effective 4 October 2022Archived versionsWe build a range of services that help millions of people daily to explore and interact with the worldin new ways. Our services include:
+Google apps, sites and devices, such as Search, YouTube and Google Home
+Platforms such as the Chrome browser and Android operating system
+Products that are integrated into third-party apps and sites, like ads, analytics and embeddedGoogle Maps
+
+You can use our services in a variety of ways to manage your privacy. For example, you can sign upfor a Google Account if you want to create and manage content like emails and photos, or see morerelevant search results. And you can use many Google services when you’re signed out or withoutcreating an account at all, like searching on Google or watching YouTube videos. You can alsochoose to browse the web in a private mode, like Chrome Incognito mode. And across our services,you can adjust your privacy settings to control what we collect and how your information is used.
+To help explain things as clearly as possible, we’ve added examples, explanatory videos anddefinitions for key terms. And if you have any questions about this Privacy Policy, you can contactus.
+INFORMATION THAT GOOGLE COLLECTS
+We want you to understand the types of information wecollect as you use our services
+We collect information to provide better services to all our users – from figuring out basic stuff suchas which language you speak, to more complex things like which ads you’ll find most useful, thepeople who matter most to you online or which YouTube videos you might like. The informationGoogle collects, and how that information is used, depends on how you use our services and howyou manage your privacy controls.
+When you’re not signed in to a Google Account, we store the information that we collect with uniqueidentifiers tied to the browser, application or device that you’re using. This allows us to do things likemaintain your preferences across browsing sessions, such as your preferred language or whether toshow you more relevant search results or ads based on your activity.
+When you’re signed in, we also collect information that we store with your Google Account, whichwe treat as personal information.
+Things that you create or provide to us
+When you create a Google Account, you provide us with personal information that includes yourname and a password. You can also choose to add a phone number or payment information to youraccount. Even if you aren’t signed in to a Google Account, you might choose to provide us withinformation — like an email address to communicate with Google or receive updates about ourservices.
+We also collect the content that you create, upload or receive from others when using our services.This includes things such as email you write and receive, photos and videos that you save, docs andspreadsheets you create and comments that you make on YouTube videos.
+Information that we collect as you use our services
+Your apps, browsers & devices
+We collect information about the apps, browsers and devices that you use to access Googleservices, which helps us provide features such as automatic product updates and dimming yourscreen if your battery runs low.
+The information that we collect includes unique identifiers, browser type and settings, device typeand settings, operating system, mobile network information including operator name and phonenumber and application version number. We also collect information about the interaction of yourapps, browsers and devices with our services, including IP address, crash reports, system activity,and the date, time and referrer URL of your request.
+We collect this information when a Google service on your device contacts our servers – forexample, when you install an app from the Play Store or when a service checks for automaticupdates. If you’re using an Android device with Google apps, your device periodically contactsGoogle servers to provide information about your device and connection to our services. Thisinformation includes things like your device type and operator name, crash reports, which appsyou've installed and, depending on your device settings, other information about how you’re usingyour Android device.
+Your activity
+We collect information about your activity in our services, which we use to do things likerecommend a YouTube video that you might like. The activity information that we collect mayinclude:
+Terms that you search for
+Videos that you watch
+Views and interactions with content and ads
+Voice and audio information
+Purchase activity
+People with whom you communicate or share content
+Activity on third-party sites and apps that use our services
+Chrome browsing history that you’ve synced with your Google Account
+
+If you use our services to make and receive calls or send and receive messages, we may collect calland message log information like your phone number, calling-party number, receiving-party number,forwarding numbers, sender and recipient email address, time and date of calls and messages,duration of calls, routing information and types and volumes of calls and messages.
+You can visit your Google Account to find and manage activity information that’s saved in youraccount.
+Go to Google Account
+Your location information
+We collect information about your location when you use our services, which helps us offer featureslike driving directions, search results for things near you, and ads based on your general location.
+Your location can be determined with varying degrees of accuracy by:
+GPS and other sensor data from your device
+IP address
+Activity on Google services, such as your searches and places that you label like home or work
+Information about things near your device, such as Wi-Fi access points, cell towers andBluetooth-enabled devices
+
+The types of location data that we collect and how long we store it depend in part on your deviceand account settings. For example, you can turn your Android device’s location on or off using thedevice’s settings app. You can also turn on Location History if you want to create a private map ofwhere you go with your signed-in devices. And if your Web & App Activity setting is enabled, yoursearches and other activity from Google services, which may also include location information, issaved to your Google Account. Learn more about how we use location information.
+In some circumstances, Google also collects information about you from publicly accessiblesources. For example, if your name appears in your local newspaper, Google’s search engine mayindex that article and display it to other people if they search for your name. We may also collectinformation about you from trusted partners, such as directory services who provide us withbusiness information to be displayed on Google’s services, marketing partners who provide us withinformation about potential customers of our business services, and security partners who provideus with information to protect against abuse. We also receive information from advertising partnersto provide advertising and research services on their behalf.
+We use various technologies to collect and store information, including cookies, pixel tags, localstorage, such as browser web storage or application data caches, databases and server logs.
+WHY GOOGLE COLLECTS DATA
+We use data to build better services
+We use the information that we collect from all our services for the following purposes:
+Provide our services
+We use your information to deliver our services, such as processing the terms you search for inorder to return results or helping you share content by suggesting recipients from your contacts.
+Maintain & improve our services
+We also use your information to ensure that our services are working as intended, such as trackingoutages or troubleshooting issues that you report to us. And we use your information to makeimprovements to our services – for example, understanding which search terms are most frequentlymisspelled helps us improve spell-check features used across our services.
+Develop new services
+We use the information we collect in existing services to help us develop new ones. For example,understanding how people organised their photos in Picasa, Google’s first photos app, helped usdesign and launch Google Photos.
+Provide personalised services, including content and ads
+We use the information we collect to customise our services for you, including providingrecommendations, personalised content and customised search results. For example, SecurityCheck-Up provides security tips adapted to how you use Google products. And Google Play usesinformation such as apps that you’ve already installed and videos that you’ve watched on YouTube tosuggest new apps you might like.
+Depending on your settings, we may also show you personalised ads based on your interests. Forexample, if you search for 'mountain bikes', you may see an ad for sports equipment when you’rebrowsing a site that shows ads served by Google. You can control what information we use to showyou ads by visiting your ad settings.
+We don’t show you personalised ads based on sensitive categories, such as race, religion,sexual orientation or health.
+We don’t show you personalised ads based on your content from Drive, Gmail or Photos.
+We don’t share information that personally identifies you with advertisers, such as your name oremail, unless you ask us to. For example, if you see an ad for a nearby flower shop and selectthe 'tap to call' button, we’ll connect your call and may share your phone number with the flowershop.
+
+Go to Ad Settings
+Measure performance
+We use data for analytics and measurement to understand how our services are used. For example,we analyse data about your visits to our sites to do things like optimise product design. And we alsouse data about the ads that you interact with to help advertisers understand the performance of theirad campaigns. We use a variety of tools to do this, including Google Analytics. When you visit sitesor use apps that use Google Analytics, a Google Analytics customer may choose to enable Googleto link information about your activity from that site or app with activity from other sites or apps thatuse our ad services.
+Communicate with you
+We use information that we collect, such as your email address, to interact with you directly. Forexample, we may send you a notification if we detect suspicious activity, such as an attempt to signin to your Google Account from an unusual location. Or we may let you know about upcomingchanges or improvements to our services. And if you contact Google, we’ll keep a record of yourrequest in order to help solve any issues you might be facing.
+Protect Google, our users and the public
+We use information to help improve the safety and reliability of our services. This includes detecting,preventing and responding to fraud, abuse, security risks and technical issues that could harmGoogle, our users or the public.
+We use different technologies to process your information for these purposes. We use automatedsystems that analyse your content to provide you with things like customised search results,personalised ads or other features tailored to how you use our services. And we analyse yourcontent to help us detect abuse such as spam, malware, and illegal content. We also use algorithmsto recognise patterns in data. For example, Google Translate helps people communicate acrosslanguages by detecting common language patterns in phrases that you ask it to translate.
+We may combine the information we collect among our services and across your devices for thepurposes described above. For example, if you watch videos of guitar players on YouTube, you mightsee an ad for guitar lessons on a site that uses our ad products. Depending on your accountsettings, your activity on other sites and apps may be associated with your personal information inorder to improve Google’s services and the ads delivered by Google.
+If other users already have your email address or other information that identifies you, we may showthem your publicly visible Google Account information, such as your name and photo. For example,this helps people identify an email coming from you.
+We’ll ask for your consent before using your information for a purpose that isn’t covered in thisPrivacy Policy.
+YOUR PRIVACY CONTROLS
+You have choices regarding the information we collectand how it’s used
+This section describes key controls for managing your privacy across our services. You can alsovisit the Privacy Check-Up, which provides an opportunity to review and adjust important privacysettings. In addition to these tools, we also offer specific privacy settings in our products – you canlearn more in our Product Privacy Guide.
+Go to Privacy Check-Up
+Managing, reviewing, and updating your information
+When you’re signed in, you can always review and update information by visiting the services youuse. For example, Photos and Drive are both designed to help you manage specific types of contentthat you’ve saved with Google.
+We also built a place for you to review and control information saved in your Google Account. YourGoogle Account includes:
+Privacy controls
+Activity Controls
+Decide what types of activity you’d like saved in your account. For example, if you haveYouTube History turned on, the videos that you watch and the things that you search forare saved in your account so that you can get better recommendations and rememberwhere you left off. And if you have Web & App Activity turned on, your searches andactivity from other Google services are saved in your account so that you can get morepersonalised experiences like faster searches and more helpful app and contentrecommendations. Web & App Activity also has a subsetting that lets you controlwhether information about your activity on other sites, apps and devices that use Googleservices, such as apps that you install and use on Android, is saved in your GoogleAccount and used to improve Google services.
+Go to Activity Controls
+Ad settings
+Manage your preferences about the ads shown to you on Google and on sites and appsthat partner with Google to show ads. You can modify your interests, choose whetheryour personal information is used to make ads more relevant to you, and turn on or offcertain advertising services.
+Go to Ad Settings
+About you
+Manage personal info in your Google Account and control who can see it across Googleservices.
+Go to About You
+Shared endorsements
+Choose whether your name and photo appear next to your activity, such as reviews andrecommendations, which appear in ads.
+Go to Shared Endorsements
+Sites and apps that use Google services
+Manage information that websites and apps using Google services, like GoogleAnalytics, may share with Google when you visit or interact with their services.
+Go to How Google uses information from sites or apps that use our services
+Ways to review & update your information
+My Activity
+My Activity allows you to review and control data that’s saved to your Google Accountwhen you’re signed in and using Google services, like searches that you’ve done or yourvisits to Google Play. You can browse by date and by topic, and delete part or all of youractivity.
+Go to My Activity
+Google Dashboard
+Google Dashboard allows you to manage information associated with specific products.
+Go to Dashboard
+Your personal information
+Manage your contact information, such as your name, email and phone number.
+Go to Personal Info
+When you’re signed out, you can manage information associated with your browser or device,including:
+Signed-out search personalisation: Choose whether your search activity is used to offer youmore relevant results and recommendations.
+YouTube settings: Pause and delete your YouTube Search History and your YouTube WatchHistory.
+Ad Settings: Manage your preferences about the ads shown to you on Google and on sites andapps that partner with Google to show ads.
+
+Exporting, removing & deleting your information
+You can export a copy of content in your Google Account if you want to back it up or use it with aservice outside of Google.
+Export your data
+To delete your information, you can:
+Delete your content from specific Google services
+Search for and then delete specific items from your account using My Activity
+Delete specific Google products, including your information associated with those products
+Delete your entire Google Account
+
+Delete your information
+Inactive Account Manager allows you to give someone else access to parts of your Google Accountin case you’re unexpectedly unable to use your account.
+And finally, you can also request to remove content from specific Google services based onapplicable law and our policies.
+There are other ways to control the information that Google collects whether or not you’re signed into a Google Account, including:
+Browser settings: For example, you can configure your browser to indicate when Google has seta cookie in your browser. You can also configure your browser to block all cookies from aspecific domain or all domains. But remember that our services rely on cookies to functionproperly, for things such as remembering your language preferences.
+Device-level settings: Your device may have controls that determine what information wecollect. For example, you can modify location settings on your Android device.
+
+SHARING YOUR INFORMATION
+When you share your information
+Many of our services let you share information with other people, and you have control over how youshare. For example, you can share videos on YouTube publicly or you can decide to keep your videosprivate. Remember, when you share information publicly, your content may become accessiblethrough search engines, including Google Search.
+When you’re signed in and interact with some Google services, like leaving comments on a YouTubevideo or reviewing an app in Play, your name and photo appear next to your activity. We may alsodisplay this information in ads, depending on your Shared Endorsements setting.
+When Google shares your information
+We do not share your personal information with companies, organisations or individuals outside ofGoogle except in the following cases:
+With your consent
+We’ll share personal information outside of Google when we have your consent. For example, if youuse Google Home to make a reservation through a booking service, we’ll get your permission beforesharing your name or phone number with the restaurant. We also provide you with controls to reviewand manage third-party apps and sites that you have given access to data in your Google Account.We’ll ask for your explicit consent to share any sensitive personal information.
+With domain administrators
+If you’re a student, or work for an organisation that uses Google services, your domain administratorand resellers who manage your account will have access to your Google Account. They may be ableto:
+Access and retain information stored in your account, such as your email
+View statistics regarding your account, such as how many apps you install
+Change your account password
+Suspend or terminate your account access
+Receive your account information in order to satisfy applicable law, regulation, legal process orenforceable governmental request
+Restrict your ability to delete or edit your information or your privacy settings
+
+For external processing
+We provide personal information to our affiliates and other trusted businesses or persons toprocess it for us, based on our instructions and in compliance with our privacy policy and any otherappropriate confidentiality and security measures. For example, we use service providers to helpoperate our data centres, deliver our products and services, improve our internal businessprocesses, and offer additional support to customers and users. We also use service providers tohelp review YouTube video content for public safety, and analyse and listen to samples of saved useraudio to help improve Google’s audio recognition technologies.
+For legal reasons
+We will share personal information outside of Google if we have a good-faith belief that access, use,preservation or disclosure of the information is reasonably necessary to:
+Meet any applicable law, regulation, legal process or enforceable governmental request. Weshare information about the number and type of requests that we receive from governments inour Transparency Report.
+Enforce applicable Terms of Service, including investigation of potential violations.
+Detect, prevent or otherwise address fraud, security or technical issues.
+Protect against harm to the rights, property or safety of Google, our users or the public, asrequired or permitted by law.
+
+We may share non-personally identifiable information publicly and with our partners – such aspublishers, advertisers, developers or rights holders. For example, we share information publicly toshow trends about the general use of our services. We also allow specific partners to collectinformation from your browser or device for advertising and measurement purposes using their owncookies or similar technologies.
+If Google is involved in a merger, acquisition or sale of assets, we’ll continue to ensure theconfidentiality of your personal information and give affected users notice before personalinformation is transferred or becomes subject to a different privacy policy.
+KEEPING YOUR INFORMATION SECURE
+We build security into our services to protect yourinformation
+All Google products are built with strong security features that continuously protect yourinformation. The insights we gain from maintaining our services help us detect and automaticallyblock security threats from ever reaching you. And if we do detect something risky that we think youshould know about, we’ll notify you and help guide you through steps to stay better protected.
+We work hard to protect you and Google from unauthorised access, alteration, disclosure ordestruction of information we hold, including:
+We use encryption to keep your data private while in transit
+We offer a range of security features, like Safe Browsing, Security Check-Up and 2 StepVerification to help you protect your account
+We review our information collection, storage and processing practices, including physicalsecurity measures, to prevent unauthorised access to our systems
+We restrict access to personal information to Google employees, contractors and agents whoneed that information in order to process it. Anyone with this access is subject to strictcontractual confidentiality obligations and may be disciplined or terminated if they fail to meetthese obligations.
+
+EXPORTING & DELETING YOUR INFORMATION
+You can export a copy of your information or delete itfrom your Google Account at any time
+You can export a copy of content in your Google Account if you want to back it up or use it with aservice outside of Google.
+Export your data
+To delete your information, you can:
+Delete your content from specific Google services
+Search for and then delete specific items from your account using My Activity
+Delete specific Google products, including your information associated with those products
+Delete your entire Google Account
+
+Delete your information
+RETAINING YOUR INFORMATION
+We retain the data that we collect for different periods of time depending on what it is, how we use itand how you configure your settings:
+Some data you can delete whenever you like, such as your personal info or the content that youcreate or upload, like photos and documents. You can also delete activity information saved inyour account, or choose to get it deleted automatically after a set period of time. We’ll keep thisdata in your Google Account until you remove it or choose to have it removed.
+Other data is deleted or anonymised automatically after a set period of time, such asadvertising data in server logs.
+We keep some data until you delete your Google Account, such as information about how oftenyou use our services.
+And some data we retain for longer periods of time when necessary for legitimate business orlegal purposes, such as security, fraud and abuse prevention, or financial record-keeping.
+
+When you delete data, we follow a deletion process to make sure that your data is safely andcompletely removed from our servers or retained only in anonymised form. We try to ensure that ourservices protect information from accidental or malicious deletion. Because of this, there may bedelays between when you delete something and when copies are deleted from our active and backupsystems.
+You can read more about Google’s data retention periods, including how long it takes for us to deleteyour information.
+COMPLIANCE & COOPERATION WITH REGULATORS
+We regularly review this Privacy Policy and make sure that we process your information in ways thatcomply with it.
+Data transfers
+We maintain servers around the world and your information may be processed on servers locatedoutside the country where you live. Data protection laws vary among countries, with some providingmore protection than others. Regardless of where your information is processed, we apply the sameprotections described in this policy. We also comply with certain legal frameworks relating to thetransfer of data.
+When we receive formal written complaints, we respond by contacting the person who made thecomplaint. We work with the appropriate regulatory authorities, including local data protectionauthorities, to resolve any complaints regarding the transfer of your data that we cannot resolve withyou directly.
+ABOUT THIS POLICY
+When this policy applies
+This Privacy Policy applies to all of the services offered by Google LLC and its affiliates, includingYouTube, Android, and services offered on third-party sites, such as advertising services. ThisPrivacy Policy doesn’t apply to services that have separate privacy policies that do not incorporatethis Privacy Policy.
+This Privacy Policy doesn’t apply to:
+The information practices of other companies and organisations that advertise our services
+Services offered by other companies or individuals, including products or sites they offer thatmay include Google services to which the policy applies, or products or sites displayed to youin search results, or linked from our services
+
+Changes to this policy
+We change this Privacy Policy from time to time. We will not reduce your rights under this PrivacyPolicy without your explicit consent. We always indicate the date when the last changes werepublished and we offer access to archived versions for your review. If changes are significant, we’llprovide a more prominent notice (including, for certain services, email notification of Privacy Policychanges).
+RELATED PRIVACY PRACTICES
+Specific Google services
+The following privacy notices provide additional information about some Google services:
+Chrome & the Chrome Operating System
+Payments
+Fiber
+Google Fi
+Google Workspace for Education
+Read Along
+YouTube Kids
+Google Accounts Managed with Family Link, for Children under 13 (or applicable age in yourcountry)
+Family Link privacy guide for children and teens
+Voice and audio collection from children’s features on the Google Assistant
+
+If you’re a member of an organisation that uses Google Workspace or Google Cloud Platform, learnhow these services collect and use your personal information in the Google Cloud Privacy Notice.
+Other useful resources
+The following links highlight useful resources for you to learn more about our practices and privacysettings:
+Your Google Account is home to many of the settings you can use to manage your account
+Privacy Check-Up guides you through key privacy settings for your Google Account
+Google’s safety centre helps you learn more about our built-in security, privacy controls andtools to help set digital ground rules for your family online
+Google’s teen privacy guide provides answers to some of the top questions that we get askedabout privacy
+Privacy & Terms provides more context regarding this Privacy Policy and our Terms of Service
+Technologies includes more information about:How Google uses cookies
+Technologies used for Advertising
+How Google uses pattern recognition to recognise things such as faces in photos
+How Google uses information from sites or apps that use our services
+
+
+
+Key terms
+Affiliates
+An affiliate is an entity that belongs to the Google group of companies, including the followingcompanies that provide consumer services in the EU: Google Ireland Limited, Google Commerce Ltd,Google Payment Corp and Google Dialer Inc. Learn more about the companies providing businessservices in the EU.
+Algorithm
+A process or set of rules followed by a computer in performing problem-solving operations.
+Application data cache
+An application data cache is a data repository on a device. It can, for example, enable a webapplication to run without an Internet connection and improve the performance of the application byenabling faster loading of content.
+Browser web storage
+Browser web storage enables websites to store data in a browser on a device. When used in 'localstorage' mode, it enables data to be stored across sessions. This makes data retrievable even aftera browser has been closed and re-opened. One technology that facilitates web storage is HTML 5.
+Cookies
+A cookie is a small file containing a string of characters that is sent to your computer when you visita website. When you visit the site again, the cookie allows that site to recognise your browser.Cookies may store user preferences and other information. You can configure your browser torefuse all cookies or to indicate when a cookie is being sent. However, some website features orservices may not function properly without cookies. Learn more about how Google uses cookiesand how Google uses data, including cookies, when you use our partners’ sites or apps.
+Device
+A device is a computer that can be used to access Google services. For example, desktopcomputers, tablets, smart speakers and smartphones are all considered devices.
+Google Account
+You may access some of our services by signing up for a Google Account and providing us withsome personal information (typically your name, email address and a password). This accountinformation is used to authenticate you when you access Google services and protect your accountfrom unauthorised access by others. You can edit or delete your account at any time through yourGoogle Account settings.
+IP address
+Every device connected to the Internet is assigned a number known as an Internet protocol (IP)address. These numbers are usually assigned in geographic blocks. An IP address can often be usedto identify the location from which a device is connecting to the Internet.
+Non-personally identifiable information
+This is information that is recorded about users so that it no longer reflects or refers to anindividually identifiable user.
+Personal information
+This is information that you provide to us which personally identifies you, such as your name, emailaddress or billing information, or other data that can be reasonably linked to such information byGoogle, such as information we associate with your Google Account.
+Pixel tag
+A pixel tag is a type of technology placed on a website or within the body of an email for the purposeof tracking certain activity, such as views of a website or when an email is opened. Pixel tags areoften used in combination with cookies.
+Referrer URL
+A Referrer URL (Uniform Resource Locator) is information transmitted to a destination web page bya web browser, typically when you click a link to that page. The Referrer URL contains the URL of thelast web page the browser visited.
+Sensitive personal information
+This is a particular category of personal information relating to topics such as confidential medicalfacts, racial or ethnic origins, political or religious beliefs or sexuality.
+Server logs
+Like most websites, our servers automatically record the page requests made when you visit oursites. These “server logs” typically include your web request, Internet Protocol address, browser type,browser language, the date and time of your request, and one or more cookies that may uniquelyidentify your browser.
+A typical log entry for a search for 'cars' looks like this:
+123.45.67.89 - 25/Mar/2003 10:15:32 -
+http://www.google.com/search?q=cars -
+Firefox 1.0.7; Windows NT 5.1 -
+740674ce2123e969123.45.67.89 is the Internet Protocol address assigned to the user by the user’s ISP. Dependingon the user’s service, a different address may be assigned to the user by their service providereach time they connect to the Internet.
+25/Mar/2003 10:15:32 is the date and time of the query.
+http://www.google.com/search?q=cars is the requested URL, including the search query.
+Firefox 1.0.7; Windows NT 5.1 is the browser and operating system being used.
+740674ce2123a969 is the unique cookie ID assigned to this particular computer the first time itvisited Google. (Cookies can be deleted by users. If the user has deleted the cookie from thecomputer since the last time they’ve visited Google, then it will be the unique cookie IDassigned to their device the next time they visit Google from that particular device).
+
+Unique identifiers
+A unique identifier is a string of characters that can be used to uniquely identify a browser, app ordevice. Different identifiers vary in how permanent they are, whether they can be reset by users andhow they can be accessed.
+Unique identifiers can be used for various purposes, including security and fraud detection, syncingservices such as your email inbox, remembering your preferences and providing personalisedadvertising. For example, unique identifiers stored in cookies help sites display content in yourbrowser in your preferred language. You can configure your browser to refuse all cookies or toindicate when a cookie is being sent. Learn more about how Google uses cookies.
+On other platforms besides browsers, unique identifiers are used to recognise a specific device orapp on that device. For example, a unique identifier such as the Advertising ID is used to providerelevant advertising on Android devices, and can be managed in your device’s settings. Uniqueidentifiers may also be incorporated into a device by its manufacturer (sometimes called auniversally unique ID or UUID), such as the IMEI-number of a mobile phone. For example, a device’sunique identifier can be used to customise our service to your device or analyse device issuesrelated to our services.
+Additional Context
+ads that you’ll find most useful
+For example, if you watch videos about baking on YouTube, you may see more ads that relate tobaking as you browse the web. We also may use your IP address to determine your approximatelocation, so that we can serve you ads for a nearby pizza delivery service if you search for 'pizza'.Learn more about Google ads and why you may see particular ads.
+advertising and research services on their behalf
+For example, advertisers may upload data from their loyalty-card programs so that they can betterunderstand the performance of their ad campaigns. We only provide aggregated reports toadvertisers that don’t reveal information about individual people.
+Android device with Google apps
+Android devices with Google apps include devices sold by Google or one of our partners and includephones, cameras, vehicles, wearables and televisions. These devices use Google Play Services andother pre-installed apps that include services such as Gmail, Maps, your phone’s camera and phonedialler, text-to-speech conversion, keyboard input and security features. Learn more about GooglePlay services.
+combine the information we collect
+Some examples of how we combine the information we collect include:
+When you’re signed in to your Google Account and search on Google, you can see searchresults from the public web, along with relevant information from the content that you have inother Google products, such as Gmail or Google Calendar. This can include things such as thestatus of your upcoming flights, restaurant and hotel reservations or your photos. Learn more
+If you have communicated with someone via Gmail and want to add them to a Google Doc or anevent in Google Calendar, Google makes it easy to do so by auto-completing their emailaddress when you start to type in their name. This feature makes it easier to share things withpeople you know. Learn more
+The Google app can use data that you have stored in other Google products to show youpersonalised content, depending on your settings. For example, if you have searches stored inyour Web & App Activity, the Google app can show you news articles and other informationabout your interests, for example sports scores, based on your activity. Learn more
+If you link your Google Account to your Google Home, you can manage your information andget things done through the Google Assistant. For example, you can add events to your GoogleCalendar or get your schedule for the day, ask for status updates on your upcoming flight orsend information such as driving directions to your phone. Learn more
+
+customised search results
+For example, when you’re signed in to your Google Account and have the Web & App Activity controlenabled, you can obtain more relevant search results that are based on your previous searches andactivity from other Google services. You can learn more here. You may also get customised searchresults even when you’re signed out. If you don’t want this level of search customisation, you cansearch and browse privately or turn off signed-out search personalisation.
+deliver our services
+Examples of how we use your information to deliver our services include:
+We use the IP address assigned to your device to send you the data you requested, such asloading a YouTube video
+We use unique identifiers stored in cookies on your device to help us authenticate you as theperson who should have access to your Google Account
+Photos and videos you upload to Google Photos are used to help you create albums,animations and other creations that you can share. Learn more
+A flight confirmation email that you receive may be used to create a 'check-in' button thatappears in your Gmail
+When you purchase services or physical goods from us, you may provide us information likeyour delivery address or delivery instructions. We use this information for things likeprocessing, fulfilling and delivering your order, and to provide support in connection with theproduct or service that you purchase.
+
+detect abuse
+When we detect spam, malware, illegal content and other forms of abuse on our systems in violationof our policies, we may disable your account or take other appropriate action. In certaincircumstances, we may also report the violation to appropriate authorities.
+devices
+For example, we can use information from your devices to help you decide which device you’d like touse to install an app or view a movie that you buy from Google Play. We also use this information tohelp protect your account.
+ensure and improve
+For example, we analyse how people interact with advertising to improve the performance of ourads.
+ensure our services are working as intended
+For example, we continuously monitor our systems to look for problems. And if we find somethingwrong with a specific feature, reviewing activity information collected before the problem startedallows us to fix things more quickly.
+information about things near your device
+If you use Google’s Location services on Android, we can improve the performance of apps that relyon your location, such as Google Maps. If you use Google’s Location services, your device sendsinformation to Google about its location, sensors (like accelerometer) and nearby cell towers andWi-Fi access points (such as MAC address and signal strength). All these things help to determineyour location. You can use your device settings to enable Google Location services. Learn more
+legal process, or enforceable governmental request
+As with other technology and communications companies, Google regularly receives requests fromgovernments and courts around the world to disclose user data. Respect for the privacy and securityof data that you store with Google underpins our approach to complying with these legal requests.Our legal team reviews each and every request, regardless of type, and we frequently push backwhen a request appears to be overly broad or doesn’t follow the correct process. Find out more inour Transparency Report.
+make improvements
+For example, we use cookies to analyse how people interact with our services. And that analysis canhelp us build better products. For example, it may help us discover that it’s taking people too long tocomplete a certain task or that they have trouble finishing steps at all. We can then redesign thatfeature and improve the product for everyone.
+may link information
+Google Analytics relies on first-party cookies, which means the cookies are set by the GoogleAnalytics customer. Using our systems, data generated through Google Analytics can be linked bythe Google Analytics customer and by Google to third-party cookies that are related to visits toother websites. For example, an advertiser may want to use its Google Analytics data to create morerelevant ads, or to further analyse its traffic. Learn more
+our users
+For example, to prevent abuse and increase transparency and accountability over our online contentmoderation practices, Google shares data about requests for removal of content from our serviceswith Lumen, which collects and analyses these requests to facilitate research to help Internet usersunderstand their rights. Learn more.
+partner with Google
+There are over two million non-Google websites and apps that partner with Google to show ads.Learn more
+payment information
+For example, if you add a credit card or other payment method to your Google Account, you can useit to buy things across our services, such as apps in the Play Store. We may also ask for otherinformation, such as a business tax ID, to help process your payment. In some cases, we may alsoneed to verify your identity and may ask you for information to do this.
+We may also use payment information to verify that you meet age requirements, if, for example, youenter an incorrect date of birth indicating that you’re not old enough to have a Google Account. Learnmore
+personalised ads
+You may also see personalised ads based on information from the advertiser. If you shopped on anadvertiser’s website, for example, they can use that visit information to show you ads. Learn more
+phone number
+If you add your phone number to your account, it can be used for different purposes across Googleservices, depending on your settings. For example, your phone number can be used to help youaccess your account if you forget your password, help people find and connect with you and makethe ads you see more relevant to you. Learn more
+protect against abuse
+For example, information about security threats can help us notify you if we think your account hasbeen compromised (at which point we can help you take steps to protect your account).
+publicly accessible sources
+For example, we may collect information that’s publicly available online or from other public sourcesto help train Google’s language models and build features like Google Translate. Or, if your business’information appears on a website, we may index and display it on Google services.
+rely on cookies to function properly
+For example, we use a cookie called ‘lbcs’ that makes it possible for you to open many Google Docsin one browser. Blocking this cookie would prevent Google Docs from working as expected. Learnmore
+safety and reliability
+Some examples of how we use your information to help keep our services safe and reliable include:
+Collecting and analysing IP addresses and cookie data to protect against automated abuse.This abuse takes many forms, such as sending spam to Gmail users, stealing money fromadvertisers by fraudulently clicking on ads or censoring content by launching a DistributedDenial of Service (DDoS) attack.
+The 'last account activity' feature in Gmail can help you find out if and when someone accessedyour email without your knowledge. This feature shows you information about recent activity inGmail, such as the IP addresses that accessed your mail, the associated location and the dateand time of access. Learn more
+
+sensitive categories
+When showing you personalised ads, we use topics that we think might be of interest to you basedon your activity. For example, you may see ads for things such as 'Cooking and Recipes' or 'AirTravel'. We don’t use topics or show personalised ads based on sensitive categories such as race,religion, sexual orientation or health. And we require the same from advertisers who use ourservices.
+Sensor data from your device
+Your device may have sensors that can be used to better understand your location and movement.For example, an accelerometer can be used to determine your speed and a gyroscope to figure outyour direction of travel.
+servers around the world
+For example, we operate data centres located around the world to help keep our productscontinuously available for users.
+services to make and receive calls or send and receive messages
+Examples of these services include:
+Google Voice, for making and receiving calls, sending text messages and managing voicemail
+Google Meet, for making and receiving video calls
+Gmail, for sending and receiving emails
+Google Chat, for sending and receiving messages
+Google Duo, for making and receiving video calls and sending and receiving messages
+Google Fi, for a phone plan
+
+show trends
+When lots of people start searching for something, it can provide useful information about particulartrends at that time. Google Trends samples Google web searches to estimate the popularity ofsearches over a certain period of time and shares those results publicly in aggregated terms. Learnmore
+specific Google services
+For example, you can delete your blog from Blogger or a Google Site you own from Google Sites.You can also delete reviews that you’ve left on apps, games and other content in the Play Store.
+specific partners
+For example, we allow YouTube creators and advertisers to work with measurement companies tolearn about the audience of their YouTube videos or ads, using cookies or similar technologies.Another example is merchants on our shopping pages, who use cookies to understand how manydifferent people see their product listings. Learn more about these partners and how they use yourinformation.
+synced with your Google Account
+Your Chrome browsing history is only saved to your account if you’ve enabled Chromesynchronisation with your Google Account. Learn more
+the people who matter most to you online
+For example, when you type an address in the To, Cc or Bcc field of an email you’re composing,Gmail will suggest addresses based on the people you contact most frequently.
+the public
+For example, we process information about requests to remove content from our services underGoogle's content removal policies or applicable law to assess the request, and to ensuretransparency, improve accountability, and prevent abuse and fraud in these practices.
+third parties
+For example, we process your information to report usage statistics to rights holders about howtheir content was used in our services. We may also process your information if people search foryour name and we display search results for sites containing publicly available information aboutyou.
+Views and interactions with content and ads
+For example, we collect information about views and interactions with ads so that we can provideaggregated reports to advertisers, like telling them whether we served their ad on a page and whetherthe ad was likely to have been seen by a viewer. We may also measure other interactions, such ashow you move your mouse over an ad or if you interact with the page on which the ad appears.
+Voice and audio information
+For example, you can choose whether you want Google to save an audio recording to your GoogleAccount when you interact with Google Search, Assistant and Maps. When your device detects anaudio activation command, like 'Hey Google', Google records your voice and audio plus a fewseconds before the activation. Learn more
+your activity on other sites and apps
+This activity might come from your use of Google services, for example from syncing your accountwith Chrome or your visits to sites and apps that partner with Google. Many websites and appspartner with Google to improve their content and services. For example, a website might use ouradvertising services (like AdSense) or analytics tools (like Google Analytics), or it might embedother content (such as videos from YouTube). These services may share information about youractivity with Google and, depending on your account settings, and the products in use (for instance,when a partner uses Google Analytics in conjunction with our advertising services), this data may beassociated with your personal information.
+Find out more about how Google uses data when you use our partners' sites or apps.
+
+
+
+

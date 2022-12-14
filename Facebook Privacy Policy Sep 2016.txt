@@ -1,0 +1,165 @@
+
+Join or Log Into Facebook   
+Sign Up
+
+
+
+Our Data Policy is changing. You can view our new Data Policy here.
+What kinds of information do wecollect?Things you do and information youprovide.Things others do and informationthey provide.Your networks and connections.Information about payments.Device information.Information from websites andapps that use our Services.Information from third-partypartners.Facebook companies.
+
+How do we use this information?
+How is this information shared?
+How can I manage or deleteinformation about me?
+How do we respond to legalrequests or prevent harm?
+How our global services operate
+How will we notify you of changesto this policy?
+How to contact Facebook withquestions
+
+Facebook Ads ControlsPrivacy BasicsCookies PolicyTermsMore Resources
+
+View the complete Data Policy
+Interactive Tools
+Minors and Safety
+Facebook Privacy Page
+Facebook Safety Page
+Facebook Site Governance Page
+EU-U.S. Privacy Shield and Swiss-U.S.Privacy Shield Notice
+
+
+Data Policy
+We give you the power to share as part of our mission to makethe world more open and connected. This policy describes whatinformation we collect and how it is used and shared. You canfind additional tools and information at Privacy Basics.As you review our policy, keep in mind that it applies to allFacebook brands, products and services that do not have aseparate privacy policy or that link to this policy, which we call the“Facebook Services” or “Services.”
+Return to top
+
+What kinds of information do wecollect?
+Depending on which Services you use, we collect different kinds of informationfrom or about you.Things you do and information you provide.
+We collect the content and other information you provide when you useour Services, including when you sign up for an account, create or share,and message or communicate with others. This can include informationin or about the content you provide, such as the location of a photo orthe date a file was created. We also collect information about how youuse our Services, such as the types of content you view or engage with orthe frequency and duration of your activities.
+Things others do and information they provide.
+We also collect content and information that other people provide whenthey use our Services, including information about you, such as whenthey share a photo of you, send a message to you, or upload, sync orimport your contact information.
+Your networks and connections.
+We collect information about the people and groups you are connectedto and how you interact with them, such as the people you communicatewith the most or the groups you like to share with. We also collectcontact information you provide if you upload, sync or import thisinformation (such as an address book) from a device.
+Information about payments.
+If you use our Services for purchases or financial transactions (like whenyou buy something on Facebook, make a purchase in a game, or make adonation), we collect information about the purchase or transaction. Thisincludes your payment information, such as your credit or debit cardnumber and other card information, and other account andauthentication information, as well as billing, shipping and contact details.
+Device information.
+We collect information from or about the computers, phones, or otherdevices where you install or access our Services, depending on thepermissions you’ve granted. We may associate the information we collectfrom your different devices, which helps us provide consistent Servicesacross your devices. Here are some examples of the device informationwe collect:Attributes such as the operating system, hardware version, devicesettings, file and software names and types, battery and signal strength,and device identifiers.
+
+Device locations, including specific geographic locations, such asthrough GPS, Bluetooth, or WiFi signals.
+
+Connection information such as the name of your mobile operator orISP, browser type, language and time zone, mobile phone number andIP address.
+
+
+
+Information from websites and apps that use our Services.
+We collect information when you visit or use third-party websites andapps that use our Services (like when they offer our Like button orFacebook Log In or use our measurement and advertising services). Thisincludes information about the websites and apps you visit, your use ofour Services on those websites and apps, as well as information thedeveloper or publisher of the app or website provides to you or us.
+Information from third-party partners.
+We receive information about you and your activities on and offFacebook from third-party partners, such as information from a partnerwhen we jointly offer services or from an advertiser about yourexperiences or interactions with them.
+Facebook companies.
+We receive information about you from companies that are owned oroperatedbyFacebookinaccordancewiththeirtermsandpoliciesoperated by Facebook, in accordance with their terms and policies. LearnLearnmore about these companies and their privacy policies.
+
+Return to top
+
+How do we use this information?
+We are passionate about creating engaging and customized experiences for people.We use all of the information we have to help us provide and support our Services.Here’s how:Provide, improve and develop Services.
+We are able to deliver our Services, personalize content, and makesuggestions for you by using this information to understand how you useand interact with our Services and the people or things you’re connectedto and interested in on and off our Services.We also use information we have to provide shortcuts and suggestions toyou. For example, we are able to suggest that your friend tag you in apicture by comparing your friend's pictures to information we've puttogether from your profile pictures and the other photos in which you'vebeen tagged. If this feature is enabled for you, you can control whetherwe suggest that another user tag you in a photo using the “Timeline andTagging” settings.When we have location information, we use it to tailor our Services foryou and others, like helping you to check-in and find local events or offersin your area or tell your friends that you are nearby.We conduct surveys and research, test features in development, andanalyze the information we have to evaluate and improve products andservices, develop new products or features, and conduct audits andtroubleshooting activities.
+Communicate with you.
+We use your information to send you marketing communications,communicate with you about our Services and let you know about ourpolicies and terms. We also use your information to respond to you whenyou contact us.
+Show and measure ads and services.
+We use the information we have to improve our advertising andmeasurement systems so we can show you relevant ads on and off ourServices and measure the effectiveness and reach of ads and services.Learn more about advertising on our Services and how you can controlhow information about you is used to personalize the ads you see.
+Promote safety and security.
+We use the information we have to help verify accounts and activity, andto promote safety and security on and off of our Services, such as bylflinvestigating suspicious activity or violations of our terms or policies. Wework hard to protect your account using teams of engineers, automatedsystems, and advanced technology such as encryption and machinelearning. We also offer easy-to-use security tools that add an extra layerof security to your account. For more information about promotingsafety on Facebook, visit the Facebook Security Help Center.
+We use cookies and similar technologies to provide and support our Services andeach of the uses outlined and described in this section of our policy. Read ourCookie Policy to learn more.
+Return to top
+
+How is this information shared?
+Sharing On Our Services
+People use our Services to connect and share with others. We make this possibleby sharing your information in the following ways:People you share and communicate with.
+When you share and communicate using our Services, you choose theaudience who can see what you share. For example, when you post onFacebook, you select the audience for the post, such as a customizedgroup of individuals, all of your Friends, or members of a Group. Likewise,when you use Messenger, you also choose the people you send photos toor message.Public information is any information you share with a public audience, aswell as information in your Public Profile, or content you share on aFacebook Page or another public forum. Public information is available toanyone on or off our Services and can be seen or accessed throughonline search engines, APIs, and offline media, such as on TV.In some cases, people you share and communicate with may download orre-share this content with others on and off our Services. When youcomment on another person’s post or like their content on Facebook,that person decides the audience who can see your comment or like. Iftheir audience is public, your comment will also be public.
+People that see content others share about you.
+Other people may use our Services to share content about you with theaudience they choose. For example, people may share a photo of you,mention or tag you at a location in a post, or share information about youthat you shared with them. If you have concerns with someone’s post,social reporting is a way for people to quickly and easily ask for help fromsomeone they trust. Learn More.
+Apps, websites and third-party integrations on or using our Services.
+When you use third-party apps, websites or other services that use, orare integrated with, our Services, they may receive information aboutwhat you post or share. For example, when you play a game with yourFacebook friends or use the Facebook Comment or Share button on awebsite, the game developer or website may get information about youractivities in the game or receive a comment or link that you share fromtheir website on Facebook. In addition, when you download or use suchthird-party services, they can access your Public Profile, which includesyour username or user ID, your age range and country/language, your listof friends, as well as any information that you share with them.Information collected by these apps, websites or integrated services issubject to their own terms and policies.Learn more about how you can control the information about you thatyou or others share with these apps and websites.
+Sharing within Facebook companies.
+We share information we have about you within the family of companiesthat are part of Facebook. Learn more about our companies.
+New owner.
+If the ownership or control of all or part of our Services or their assetschanges, we may transfer your information to the new owner.
+Sharing With Third-Party Partners and Customers
+We work with third party companies who help us provide and improve our Servicesor who use advertising or related products, which makes it possible to operate ourcompanies and provide free services to people around the world.Here are the types of third parties we can share information with about you:Advertising, Measurement and Analytics Services (Non-PersonallyIdentifiable Information Only).
+We want our advertising to be as relevant and interesting as the otherinformation you find on our Services. With this in mind, we use all of theinformation we have about you to show you relevant ads. We do notshare information that personally identifies you (personally identifiableinformation is information like name or email address that can by itself beused to contact you or identifies who you are) with advertising,measurement or analytics partners unless you give us permission. Wemay provide these partners with information about the reach andeffectiveness of their advertising without providing information thatpersonally identifies you, or if we have aggregated the information so thatit does not personally identify you. For example, we may tell an advertiserhow its ads performed, or how many people viewed their ads or installedan app after seeing an ad, or provide non-personally identifyingdemographic information (such as 25 year old female, in Madrid, wholikes software engineering) to these partners to help them understandtheir audience or customers, but only after the advertiser has agreed toabide by our advertiser guidelines.Please review your advertising preferences to understand why you’reseeing a particular ad on Facebook. You can adjust your ad preferences ifyou want to control and manage your ad experience on Facebook.
+Vendors, service providers and other partners.
+We transfer information to vendors, service providers, and otherhlbllbhdhlpartners who globally support our business, such as providing technicalinfrastructure services, analyzing how our Services are used, measuringthe effectiveness of ads and services, providing customer service,facilitating payments, or conducting academic research and surveys.These partners must adhere to strict confidentiality obligations in a waythat is consistent with this Data Policy and the agreements we enter intowith them.
+
+Return to top
+
+How can I manage or deleteinformation about me?
+You can manage the content and information you share when you use Facebookthrough the Activity Log tool. You can also download information associated withyour Facebook account through our Download Your Information tool.We store data for as long as it is necessary to provide products and services to youand others, including those described above. Information associated with youraccount will be kept until your account is deleted, unless we no longer need thedata to provide products and services.You can delete your account any time. When you delete your account, we deletethings you have posted, such as your photos and status updates. If you do not wantto delete your account, but want to temporarily stop using Facebook, you maydeactivate your account instead. To learn more about deactivating or deleting youraccount, click here. Keep in mind that information that others have shared aboutyou is not part of your account and will not be deleted when you delete youraccount.
+Return to top
+
+How do we respond to legalrequests or prevent harm?
+We may access, preserve and share your information in response to a legal request(like a search warrant, court order or subpoena) if we have a good faith belief thatthe law requires us to do so. This may include responding to legal requests fromjurisdictions outside of the United States where we have a good faith belief that theresponse is required by law in that jurisdiction, affects users in that jurisdiction, andis consistent with internationally recognized standards. We may also access,preserve and share information when we have a good faith belief it is necessary to:detect, prevent and address fraud and other illegal activity; to protect ourselves,you and others, including as part of investigations; or to prevent death or imminentbodily harm. For example, we may provide information to third-party partnersabout the reliability of your account to prevent fraud and abuse on and off of ourServices. Information we receive about you, including financial transaction datarelated to purchases made with Facebook, may be accessed, processed andretained for an extended period of time when it is the subject of a legal request orobligation, governmental investigation, or investigations concerning possibleviolations of our terms or policies, or otherwise to prevent harm. We also mayretain information from accounts disabled for violations of our terms for at least ayear to prevent repeat abuse or other violations of our terms.
+Return to top
+
+How our global services operate
+Facebook may share information internally within our family of companies or withthird parties for purposes described in this policy. Information collected within theEuropean Economic Area (“EEA”) may, for example, be transferred to countriesoutside of the EEA for the purposes as described in this policy. We utilize standardcontract clauses approved by the European Commission, adopt other means underEuropean Union law, and obtain your consent to legitimize data transfers from theEEA to the United States and other countries.You can contact us using the information provided below with questions orconcerns. We also may resolve disputes you have with us in connection with ourprivacy policies and practices through TRUSTe. You can contact TRUSTe throughtheir website.
+Return to top
+
+How will we notify you of changes tothis policy?
+We’ll notify you before we make changes to this policy and give you theopportunity to review and comment on the revised policy before continuing to useour Services.
+Return to top
+
+How to contact Facebook withquestions
+To learn more about how privacy works on Facebook, please check out PrivacyBasics. If you have questions about this policy, here’s how you can reach us:If you live in the US or Canada…
+Please contact Facebook, Inc. online or by mail at:Facebook, Inc.1601 Willow RoadMenlo Park, CA 94025
+
+If you live anywhere else…
+The data controller responsible for your information is Facebook Ireland Ltd., which youcan contact online or by mail at:Facebook Ireland Ltd.4 Grand Canal SquareGrand Canal HarbourDublin 2 Ireland
+
+Date of Last Revision: September 29, 2016
+
+English (US)
+Français (Canada)
+Español
+..(..)
+...
+...
+Português (Brasil)
+Deutsch
+Italiano
+.......
+......
+
+
+Sign Up
+Log In
+Messenger
+Facebook Lite
+Watch
+Places
+Games
+Marketplace
+Meta Pay
+Oculus
+Portal
+Instagram
+Bulletin
+Fundraisers
+Services
+Voting Information Center
+Privacy Policy
+Privacy Center
+Groups
+About
+Create Ad
+Create Page
+Developers
+Careers
+Cookies
+Ad choices
+Terms
+Help
+Contact Uploading & Non-Users
+
+Meta © 2022
+
+
+
+
+
