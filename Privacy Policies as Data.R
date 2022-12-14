@@ -2,8 +2,8 @@
 #Assessing word frequency, context and similarities.
 
 #1) Importing Privacy.xlsx (Import Dataset)
+#1.1) Environment > Import Dataset > From Excel...
 
-Privacy <- read_excel("Privacy.xlsx")
 View(Privacy)
 
 #2) Install necessary packages:
@@ -17,6 +17,13 @@ corpus_privacy <- corpus(Privacy, text_field = "policy")
 #4) The function describes our file. We can see three policies under analysis:
 
 summary(corpus_privacy, 3)
+
+#Corpus consisting of 3 documents, showing 3 documents:
+
+  #Text Types Tokens Sentences  company Year
+ #text1  1264   5861       230     meta 2022
+ #text2  1268   5603       190   google 2022
+ #text3  1022   4453       171 whatsapp 2021
 
 #5) Data Preparation to remove unnecessary items.
 
