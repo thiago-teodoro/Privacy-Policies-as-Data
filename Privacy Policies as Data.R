@@ -27,7 +27,7 @@ Corpus consisting of 3 documents, showing 3 documents:
  text3  1022   4453       171 whatsapp 2021
 
 #5) Data Preparation to remove unnecessary items.
-
+#5.1) Tokens
 privacy_tokens <- quanteda::tokens(corpus_privacy,
                                      what = c("word"),
                                      remove_punct = TRUE, # default FALSE
@@ -40,7 +40,7 @@ privacy_tokens <- quanteda::tokens(corpus_privacy,
                                      padding = FALSE,
                                      verbose = quanteda_options("verbose")
 )
-
+#5.2)  Non-positional analysis (bag-of-words)
 privacy_dtm <- quanteda::dfm(privacy_tokens, tolower=TRUE)
                      
                      
@@ -231,6 +231,7 @@ Corpus consisting of 2 documents, showing 2 documents:
  text2  1268   5603       190  google 2022
 
 #13.3) Prepare the tokens
+#13.3.1) Tokens
 sg_tokens <- quanteda::tokens(corpus_sg,
                               what = c("word"),
                               remove_punct = TRUE, # default FALSE
@@ -244,6 +245,7 @@ sg_tokens <- quanteda::tokens(corpus_sg,
                               verbose = quanteda_options("verbose")
 )
 
+#13.3.2) Non-positional analysis (bag-of-words)
 sg_dtm <- quanteda::dfm(sg_tokens, tolower=TRUE) 
 
 #13.4) Remove stopwords and identify those with the highest frequency.
