@@ -12,3 +12,10 @@ For Microsoft Power BI users:
 
 
 ![Cloud image](https://user-images.githubusercontent.com/120563024/207577798-04151d3b-11ac-4cfe-bcb1-18a7f6381049.JPG)
+
+These are helpful resources you can also explore:
+1) Burt L. Monroe. Term Weighting (including tf-idf) and Cosine Similarity. PLSC 597, Text as Data, Penn State.
+   https://burtmonroe.github.io/TextAsDataCourse/Tutorials/TADA-CosineSimTutorial.nb.html
+
+2) The quanteda documentation:
+   https://tutorials.quanteda.io/basic-operations/workflow/
