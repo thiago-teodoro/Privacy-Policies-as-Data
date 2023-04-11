@@ -7,8 +7,7 @@ The companies' privacy policies are included in the files. For the data used in 
 2)	“P1.xlsx” is a file containing the Privacy Act of 1974, as amended, 5 U.S.C. § 552a.
 3)	“SG.xlsx” is a file containing the privacy policies of Google and Snap Inc.
 
-For Microsoft Power BI users:
-The file “Word Cloud.pbix” allows the creation of word cloud visualizations in Power BI. The file is also available at https://appsource.microsoft.com/
+For Microsoft Power BI users, the file “Word Cloud.pbix” allows creating word cloud visualizations in Power BI. The file is also available at https://appsource.microsoft.com/
 
 
 ![Cloud image](https://user-images.githubusercontent.com/120563024/207577798-04151d3b-11ac-4cfe-bcb1-18a7f6381049.JPG)
